@@ -1,0 +1,55 @@
+/* Set a neutral background */
+body {
+  background-color: #f0f0f0; /* Light gray background color */
+}
+
+/* Change the font */
+body,
+h1,
+h2,
+h3,
+p,
+a {
+  font-family: Arial, sans-serif;
+  color: #333; /* Dark gray text color */
+}
+
+/* Style the navigation bar */
+.navbar {
+  background-color: #333; /* Dark background color for the navbar */
+  border-color: #222; /* Darker border color for the navbar */
+  color: #fff; /* Text color for the navbar links */
+}
+
+/* Style the panel headers */
+.panel-heading {
+  background-color: #555; /* Slightly darker background color for panel headers */
+  color: #fff; /* Text color for panel headers */
+}
+
+.btn {
+  background-color: #007bff; /* Blue background color for buttons */
+  border-color: #007bff; /* Blue border color for buttons */
+  color: #fff; /* Text color for buttons */
+}
+
+/* Style the dropdown */
+.dropdown {
+  background-color: #333; /* Dark background color for the dropdown */
+  color: #fff; /* Text color for the dropdown */
+}
+
+/* Style the dropdown options */
+.dropdown option {
+  background-color: #333; /* Dark background color for options */
+  color: #fff; /* Text color for options */
+}
+
+#search {
+  margin-left: 20px;
+  margin-right: 10px; /* Add margin to the right of the text field */
+}
+
+.btn-primary {
+  margin-left: 10px; /* Add margin at the top of the button */
+}

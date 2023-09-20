@@ -1,0 +1,19 @@
+[Error] Origin http://localhost:3000 is not allowed by Access-Control-Allow-Origin. Status code: 500
+[Error] Fetch API cannot load http://127.0.0.1:5004/GetAllFiles due to access control checks.
+[Error] Failed to load resource: Origin http://localhost:3000 is not allowed by Access-Control-Allow-Origin. Status code: 500 (GetAllFiles, line 0)
+[Error] Origin http://localhost:3000 is not allowed by Access-Control-Allow-Origin. Status code: 500
+[Error] Fetch API cannot load http://127.0.0.1:5004/GetAllFiles due to access control checks.
+[Error] Failed to load resource: Origin http://localhost:3000 is not allowed by Access-Control-Allow-Origin. Status code: 500 (GetAllFiles, line 0)
+[Error] Error: – TypeError: Load failed
+TypeError: Load failed
+	(anonymous function) (bundle.js:164)
+	promiseReactionJob
+[Error] Error: – TypeError: Load failed
+TypeError: Load failed
+	(anonymous function) (bundle.js:164)
+	promiseReactionJob
+[Info] PSPDFKit for Web 2023.3.2 (https://pspdfkit.com/web) (vendors-node_modules_pspdfkit_dist_pspdfkit_js.chunk.js, line 7454)
+[Log] Using WASM method (4893f5ed-b073-4e9a-90eb-1dd3aebaf3c7, line 12)
+[Log] Start http://localhost:3000/pspdfkit-lib/pspdfkit-93edf1d446683964.wasm download. (4893f5ed-b073-4e9a-90eb-1dd3aebaf3c7, line 12)
+[Log] Download and Instantiation complete, took: 224ms (4893f5ed-b073-4e9a-90eb-1dd3aebaf3c7, line 12)
+[Log] Native initialization complete, took: 268ms (4893f5ed-b073-4e9a-90eb-1dd3aebaf3c7, line 12)
